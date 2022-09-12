@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: tawazun
-        image: Najwa/tawazun:latest
+        image: algow/tawazun:latest
         env:
           - name: DB_URL
             value: mysql
